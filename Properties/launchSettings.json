@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VeeamDirsync": {
+      "commandName": "Project",
+      "commandLineArgs": "s d 1 log.txt"
+    }
+  }
+}
